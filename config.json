@@ -1,4 +1,6 @@
-
 {
+mongodb: {
+uri: "mongodb://localhost:27017/nodems"
+},
 jwtSecret: "my-secret-key"
 }
