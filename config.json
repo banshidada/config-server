@@ -1,4 +1,4 @@
 
 {
-"jwtSecret" : "hello"
+jwtSecret: "my-secret-key"
 }
